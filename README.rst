@@ -1,7 +1,7 @@
 ==============
 singledispatch
 ==============
-后向兼容python2.6 - python3.3
+后向兼容python2.6 - python3.3 的singledispatch实现
 
 .. image:: https://secure.travis-ci.org/ambv/singledispatch.png
   :target: https://secure.travis-ci.org/ambv/singledispatch
